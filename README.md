@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Elise
 
 I’m a bioengineer with a strong passion for computer science and technology.  
-Currently studying at 42 (19 school), I’m diving deep into C, C++ and low-level programming, while always looking to connect my two main interests: **informatics** and **environmental challenges**.  
+Currently studying at 42 Belgium, I’m diving deep into C, C++ and low-level programming, while always looking to connect my two main interests: **informatics** and **environmental challenges**.  
 
 ## 🔥 Highlighted Projects
 
