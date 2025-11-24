@@ -21,9 +21,9 @@ Currently studying at 42 Belgium, I’m diving deep into C, C++ and low-level pr
 ## 🔥 Highlighted Projects
 
 - **[Master’s Thesis](https://github.com/Elisevand/Statistical_Analysis_of_Maize_Phenotyping)** → A pipeline to standardize and integrate phenotyping data from multiple European platforms.  
-- **[Minishell](link-to-your-repo)** → A Unix shell implementation in C (builtins, pipes, redirections, process handling).  
-- **[Cub3D](link-to-your-repo)** → A raycasting-based 3D engine with real-time rendering (MiniLibX).  
-- **[C++ Modules 00–08](link-to-your-repo)** → A full set of progressive projects covering modern C++ concepts (OOP, inheritance, templates, STL).  
+- **[Minishell](https://github.com/Elisevand/Minishell)** → A Unix shell implementation in C (builtins, pipes, redirections, process handling).  
+- **[Cub3D](https://github.com/Elisevand/Cub-3D)** → A raycasting-based 3D engine with real-time rendering (MiniLibX).  
+- **[C++ Modules 00–09](https://github.com/Elisevand/CPP-modules)** → A full set of progressive projects covering modern C++ concepts (OOP, inheritance, templates, STL).  
 
 ## 💡 What I enjoy
 
